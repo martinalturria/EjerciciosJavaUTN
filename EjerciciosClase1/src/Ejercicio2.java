@@ -12,7 +12,7 @@ public class Ejercicio2 {
         if(ingreso >= 489083 || cantVehi >= 3 || cantInmue >= 3 || embarcAeoroActiv){
             System.out.println("Pertenece al Segmento de Ingresos Altos");
         }else {
-            System.out.println("No Pertenece al Semento de Ingresos Altos");
+            System.out.println("No Pertenece al Segmento de Ingresos Altos");
         }
     }
 }
